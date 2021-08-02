@@ -30,14 +30,6 @@ body {
 	text-align: center;
 }
 
-
-
-a {
-	color: #cc6055;
-	text-decoration: none;
-	outline: none;
-}
-
 a:hover, a:focus {
 	color: #fff;
 }
@@ -62,6 +54,8 @@ a:hover, a:focus {
 
 
 /* 지금 베스트 컬러  */
+
+
 .skin-3 .best {  color: #636363 } /* <-- 여기 바꾸기 !  */
 .skin-3 .toon1 {  color: #636363 } /* <-- 여기 바꾸기 !  */
 .skin-3 .toon2 {  color: #636363 } /* <-- 여기 바꾸기 !  */
